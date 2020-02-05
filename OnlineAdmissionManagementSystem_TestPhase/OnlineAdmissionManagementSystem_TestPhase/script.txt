@@ -1,0 +1,3 @@
+﻿
+
+RegisterationTable(Course,Image,Name,FatherName,Gender,DOB,Nationality,Country,City,PostalAddress,ParmanentAddress,Phone,MobileNo,Email,Password)
